@@ -1,6 +1,6 @@
 # @ Happy Place
 <p>Find us here: https://info442-group4-happyplace.web.app/ </p>
-<h2>About Us</h2>
+<h2>About Happy Place</h2>
 <br/>
 <p>A common theme we found in our research was that underrepresented college students were particularly impacted by mental health challenges. Relative to their counterparts, more underrepresented college students were struggling with mental health issues. We believe it’s essential to provide a platform better equipped with a more specialized set of resources to help them overcome these issues. Additionally, current resources are lacking and inaccessible because of various barriers. Especially after the COVID-19 pandemic, mental health resources accessible to students have been decreasing in spite of a rising rate of college students with mental health issues. With adequate ways to access and receive help dwindling, we wish to take it upon ourselves to create a free and accessible method of overcoming mental health struggles. This made us wonder:</p>
 <p><strong>How might we provide underrepresented students at UW access to specialized mental health resources in order to overcome their mental health struggles?</strong></p>
